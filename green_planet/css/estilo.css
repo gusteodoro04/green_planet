@@ -1,0 +1,26 @@
+.navbar{
+    background-color: rgb(37, 53, 38);
+}
+.navbar-toggler{
+    color: #fff;
+    border: 0;
+    font-size: 1.5rem;
+}
+.navbar-toggler:focus{
+    box-shadow: 0 0 0 0;
+}
+.dropdown-menu{
+    background-color: rgb(49, 45, 35);
+    border-radius: 0;
+}
+.dropdown-menu[data-bs-poopper]{
+    top: 3.55rem;
+}
+.dropdown-item:hover, .dropdown-item:focus{
+    background-color: rgb(58, 51, 39);
+}
+.boasvindas{
+    background-image: url(../imagens/jumbotrom-bg.png);
+    background-size: cover;
+    background-position: center;
+}
